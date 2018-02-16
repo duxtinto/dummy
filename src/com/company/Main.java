@@ -3,6 +3,23 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // new line
+        // new line
+        // new line
+        // new line
+        // new line
+        // new line
+        // new new line
+        // new new line
+        // new new line
+        // write your code here so dummy
+        // new line
+        // new line
+        // new line
+        // new line
+    }
+
+    public void fun1() {
+        // a new method
     }
 }
