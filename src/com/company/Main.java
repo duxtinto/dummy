@@ -18,4 +18,8 @@ public class Main {
         // new line
         // new line
     }
+
+    public void fun1() {
+        // a new method
+    }
 }
